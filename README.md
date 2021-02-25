@@ -1,7 +1,5 @@
 # Audi Phone Holders
 
-![Render](Images/Render.png)
-
 ## Introduction
 A phone mount plate for the Audi A3 8P generation
 
@@ -18,5 +16,9 @@ The PCBs can be ordered at [JLCPCB](https://jlcpcb.com/) with the following opti
 | Surface Finish   | HASL (tin) / ENIG (gold) |
 | Remove Order Nr  | Yes                      |
 
+Gerber files can be found in the [releases](https://github.com/FPSUsername/Audi_Phone_Mounts/releases) section.
+
 ## Final result
-![Final result](Images/Result.jpg)
+![Audi A3 8P](Images/Audi_A3_8P.jpg)
+### Render
+![Audi A3 8P Render](Images/Audi_A3_8P_Render.png)
